@@ -18,9 +18,9 @@ redirect_from:
 
 | Kỹ năng | Mức độ | Chi tiết |
 | :--- | :--- | :--- |
-| Lập trình C/C++ | Khá | [cite_start]Firmware Arduino, cảm biến Serial [cite: 246] |
-| Python | Cơ bản | [cite_start]Matplotlib, Pandas [cite: 247] |
-| Git/GitHub | Trung bình | [cite_start]Branch, merge, xử lý conflict [cite: 248] |
+| Lập trình C/C++ | Khá | Firmware Arduino, cảm biến Serial |
+| Python | Cơ bản | Matplotlib, Pandas |
+| Git/GitHub | Trung bình | Branch, merge, xử lý conflict |
 | Mô phỏng mạch | Khá | Sử dụng thành thạo Proteus |
 
 ## Dự án tiêu biểu
